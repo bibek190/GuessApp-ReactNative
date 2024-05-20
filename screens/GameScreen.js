@@ -106,6 +106,6 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   instructionText: {
-    marginBottom: 12,
+    marginBottom: 10,
   },
 });
